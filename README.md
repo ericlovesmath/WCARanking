@@ -1,14 +1,9 @@
-# WCARanking
-Worthless code to rank cubers, created by u/AeRUBIK-Cubing
+# 2018 WCARanking 
 
-AverageTimes is just a folder with every single recorded average in centiseconds
+(VERY OLD) Percentile ranking data from the World Cube Association
 
-AverageSingles is just a folder with every single recorded time in centiseconds
+- AverageTimes: Folder with every single recorded average in centiseconds
+- AverageSingles: Folder with every single recorded time in centiseconds
+- WCA-2018-11-11: Simplified version of the WCA export
 
-WCA-2018-11-11 is just a simplified version of the WCA export, have fun finding yourself there
-
-The python codes are terrible and most are overwritten so don't even bother, I spent a maximum of 10 minutes on it
-
-All files are in csv (comma sepperated value) and you can view as txt if you want
-
-... I hate READMEs
+This is an old script written 7 years ago that took 10 minutes to write at most. Data is left here for archival puposes. 
